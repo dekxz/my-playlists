@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1,Goblin no Suana
-https://github.com/dekxz/my-playlists/raw/refs/heads/main/ntai/Goblin%20no%20Suana.m3u
+#EXTINF:-1,ANIME SERIES
+https://github.com/dekxz/my-playlists/raw/refs/heads/main/nime/anime_series.m3u
 
 #EXTM3U
-#EXTINF:-1,Kuroinu Kedakaki Seijo wa Hakudaku ni Somaru
-https://github.com/dekxz/my-playlists/raw/refs/heads/main/ntai/Kuroinu%20Kedakaki%20Seijo%20wa%20Hakudaku%20ni%20Somaru.m3u
-
-#EXTM3U
-#EXTINF:-1,Kuroinu II The Animation
-https://github.com/dekxz/my-playlists/raw/refs/heads/main/ntai/Kuroinu%20II%20The%20Animation.m3u
+#EXTINF:-1,HENTAI SERIES
+https://github.com/dekxz/my-playlists/raw/refs/heads/main/ntai/hentai_series.m3u
 
 
 

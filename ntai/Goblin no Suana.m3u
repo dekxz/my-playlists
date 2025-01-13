@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,Episodio 1
+#EXTINF:-1 tvg-logo="https://akidoo.top/images/covers/goblin-no-suana-1-cv1.png",Episodio 1
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/wy4cdt9bkbh8l5nb6bbwAv9jcAZ05mbz5g6hslmm2pnh8rzqvA8mm.m3u8
 
 #EXTM3U
-#EXTINF:-1,Episodio 2
+#EXTINF:-1 tvg-logo="https://akidoo.top/images/covers/goblin-no-suana-2-cv1.png",Episodio 2
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/spyrbphbd6pxszfllg20fAwwt3Zwh204zssknltjmdf6s3z8qmrd1.m3u8
 
 #EXTM3U
-#EXTINF:-1,Episodio 3
+#EXTINF:-1 tvg-logo="https://akidoo.top/images/covers/goblin-no-suana-3-cv1.png",Episodio 3
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/7cy4rlmj51yl6rq3j0zg8fswc2Zks05b1bznj8prbxfy48ktfsf57.m3u8
 
 #EXTM3U
-#EXTINF:-1,Episodio 4
+#EXTINF:-1 tvg-logo="https://akidoo.top/images/covers/goblin-no-suana-4-cv1.png",Episodio 4
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/h6x44lwwypj0v0j3tgpl33g4s1Zrp0qv14tc5wtkwpf298z52zt7A.m3u8
 
 

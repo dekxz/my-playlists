@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1,Episodio 1
+#EXTINF:-1 tvg-logo="https://git-covers.pages.dev/images/kuroinu-1.jpg",Episodio 1
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/bvy6fsv8drsg1Avf2bsldq5527ZvvqbnxfmA0vy3z5z8rlr0l87y3.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,Episodio 2
+#EXTINF:-1 tvg-logo="https://git-covers.pages.dev/images/kuroinu-2.jpg",Episodio 2
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/ym12csnr0Az71f67lz1wv4AgkmZsrg46lkt94r1vlrfgb7r2sgw3m.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,Episodio 3
+#EXTINF:-1 tvg-logo="https://git-covers.pages.dev/images/kuroinu-3.jpg",Episodio 3
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/cd58x2Atdfbf10h6qbqdfd62gAZrdz2y5q43wndtgzA2kdwgfmzqA.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,Episodio 4
+#EXTINF:-1 tvg-logo="https://git-covers.pages.dev/images/kuroinu-4.jpg",Episodio 4
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/lks5072k6f4kfhng6j9kh9xk8yZbnn13krcw2spgtlbgh780v0m7q.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,Episodio 5
+#EXTINF:-1 tvg-logo="https://git-covers.pages.dev/images/kuroinu-5.png",Episodio 5
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/qykg77840y15b3lylw99Aq68w3Zbbr79A5xqlb15h8kqb95c2ynby.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,Episodio 6
+#EXTINF:-1 tvg-logo="https://git-covers.pages.dev/images/kuroinu-6.jpg",Episodio 6
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/3lsspfyfs1gjj49wd775bkkA82Z30h7h7xsx546A7sr3bkAzcvygm.m3u8
 
 

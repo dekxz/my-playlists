@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1qb8sZ.img?w=600&h=450&m=6",ANIME SERIES
 https://github.com/dekxz/my-playlists/raw/refs/heads/main/nime/anime_series.m3u
 
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://textpro.me/images/user_image/2025/01/678577a09362f.jpg",HENTAI SERIES
 https://github.com/dekxz/my-playlists/raw/refs/heads/main/ntai/hentai_series.m3u
@@ -10,6 +11,11 @@ https://github.com/dekxz/my-playlists/raw/refs/heads/main/ntai/hentai_series.m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",MOVIES
 https://github.com/dekxz/my-playlists/raw/refs/heads/main/mvies/movies.m3u
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png",IPTV GitHub
+https://iptv-org.github.io/iptv/index.m3u
 
 
 
